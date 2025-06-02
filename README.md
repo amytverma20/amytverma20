@@ -1,3 +1,7 @@
+# 🌸Hey there, I’m so glad you’re here!
+## Welcome to my little corner of GitHub!
+I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find
+
 # 👋 Hello, I'm Amit Verma
 
 🎓 Final-year BBA (Analytics & Big Data) Student at UPES | 📊 Aspiring Data Analyst  
@@ -55,7 +59,7 @@ Here are some of the projects I’ve worked on to gain hands-on experience in an
 ## 📬 Let's Connect
 
 - 📧 Email: [amytverma20@gmail.com]  
-- 🔗 LinkedIn:(linkedin.com/in/amitverma20)
+- 🔗 LinkedIn:[https://www.linkedin.com/in/amitverma20/]
 
-  #Thank you for visiting my profile! I'm excited to collaborate, learn, and contribute to impactful data projects. 
+  # Thank you for visiting my profile! I'm excited to collaborate, learn, and contribute to impactful data projects !!
 
