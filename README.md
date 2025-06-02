@@ -54,7 +54,7 @@ Here are some of the projects I’ve worked on to gain hands-on experience in an
 
 ## 📬 Let's Connect
 
-- 📧 Email: [your.email@example.com]  
+- 📧 Email: [amytverma20@gmail.com]  
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/amytverma20)
 
   #Thank you for visiting my profile! I'm excited to collaborate, learn, and contribute to impactful data projects. 
