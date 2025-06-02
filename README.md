@@ -35,8 +35,8 @@ Here are some of the projects I’ve worked on to gain hands-on experience in an
   Analyzed sales data to extract performance metrics, seasonal trends, and regional insights. Built dashboards to monitor sales KPIs.  
   _Tools Used: Python, SQL, Data Bricks 
 
-- **🗣️ Sentiment Analysis on Product Reviews**  
-  Performed sentiment classification using natural language processing to assess Restauranr review and so sentimental analysis,  
+- **🗣️ Sentiment Analysis on Restaurant Reviews**  
+  Performed sentiment classification using natural language processing to assess Restaurant review and do sentimental analysis and know about consumer Behaviour.
   _Tools Used: google colab,Python(NLTK,TextBlob,Vectorization,etc),Pandas,Matplotlib
 
 - **📈 Social Media Trend Analysis**  
