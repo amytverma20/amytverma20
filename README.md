@@ -27,39 +27,10 @@ I'm a data-driven enthusiast with a strong foundation in analytics, business int
 
 ---
 
-## 📊 Projects
-
-Here are some of the projects I’ve worked on to gain hands-on experience in analytics:
-
-- **🛒 Superstore Retail Sales Analysis**  
-  Analyzed sales data to extract performance metrics, seasonal trends, and regional insights. Built dashboards to monitor sales KPIs.  
-  _Tools Used: Python, SQL, Data Bricks 
-
-- **🗣️ Sentiment Analysis of Restaurant Reviews**  
-  Performed sentiment classification using natural language processing to assess Restaurant review and do sentimental analysis and know about consumer Behaviour.
-  _Tools Used: google colab,Python(NLTK,TextBlob,Vectorization,etc),Pandas,Matplotlib
-
-- **📈 Social Media Analysis**  
-  Tracked keyword trends and engagement metrics,Important KPIs, and making Dashboard to understand social media dynamics and audience behavior.  
-  _Tools Used: Python, Google Colab, Data Visualization(Power BI).
-
-- **🚧 Road Accident Analysis & Dashboard**  
-  Conducted exploratory and spatial data analysis to identify accident hotspots and road surface and most of the things related to road accident and Do Analysis on that.
-
-  ## 📚 Currently Learning
-
-- Advanced Excel & DAX for Business Intelligence
-- Database management and warehousing
-- Data Cleaning & Preprocessing Techniques  
-- Exploratory Data Analysis (EDA) Best Practices  
-- Dashboards & Visual Storytelling with Power BI  
-- Real-world Case Studies in Data Analytics
-
-
 ## 📬 Let's Connect
 
 - 📧 Email: [amytverma20@gmail.com]  
 - 🔗 LinkedIn:[https://www.linkedin.com/in/amitverma20/]
 
-  # Thank you for visiting my profile! I'm excited to collaborate, learn, and contribute to impactful data projects !!
+  # Thank you for visiting my profile !
 
